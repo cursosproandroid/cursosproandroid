@@ -23,8 +23,10 @@
 
 <p align="center">
 <br/>
+  
 <i>Let's connect and chat! Find me on the web...</i>
 <br />
+  
 <a href="https://t.me/DKzippO">
   <img align="center" alt="Telegram" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
