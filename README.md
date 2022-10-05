@@ -28,11 +28,14 @@
 <a href="https://t.me/DKzippO">
   <img align="left" alt="Telegram" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
+<br/>
 <a href="https://www.instagram.com/skueletor/">
   <img align="left" alt="Instagram" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<br/>
 <a href="https://proandroidoficial.com/">
   <img align="left" alt="Leetcode" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/google.svg" />
+  <br/>
   
   <p align="center">
     Show ❤️ by starring repositories you find good! 
