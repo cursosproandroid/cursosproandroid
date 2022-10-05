@@ -35,6 +35,8 @@
 </a>
 <a href="https://proandroidoficial.com/">
   <img align="center" alt="Google" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/google.svg" />
+</a>
+  
   
   <p align="center">
     Show ❤️ by starring repositories you find good! 
